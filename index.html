@@ -6,7 +6,7 @@ title: Hi! I am CoT.
     <ul class="posts__list">
         {% for post in paginator.posts %}
         <li>
-            <a href="{{ post.url }}">{% endif %}
+            <a href="{{ post.url }}">
             <h2 class="posts__title">{{ post.title }}</h2>
             <span class="posts__date">{{ post.date | date: "%B %e, %Y" }}</span>
         </a>
@@ -15,17 +15,17 @@ title: Hi! I am CoT.
     </ul>
     <div class="pagination clear">
         {% if paginator.previous_page %}
-        {% if paginator.previous_page == 1 %}
-        <a href="/" class="pagination--previous">
-            <i class="fa fa-angle-double-left"></i>
-            Previous
-        </a>
-        {% else %}
-        <a href="/page{{paginator.previous_page}}" class="pagination--previous">
-            <i class="fa fa-angle-double-left"></i>
-            Previous
-        </a>
-        {% endif %}
+            {% if paginator.previous_page == 1 %}
+            <a href="/" class="pagination--previous">
+                <i class="fa fa-angle-double-left"></i>
+                Previous
+            </a>
+            {% else %}
+            <a href="/page{{paginator.previous_page}}" class="pagination--previous">
+                <i class="fa fa-angle-double-left"></i>
+                Previous
+            </a>
+            {% endif %}
         {% else %}
               <span class="pagination--previous">
                 <i class="fa fa-angle-double-left"></i>
