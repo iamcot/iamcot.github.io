@@ -2,4 +2,10 @@
 layout: default
 title: Hi!
 ---
-<p>Chưa có gì đâu, sẽ cập nhật sớm</p>
+<ul>
+        {% for p in site.pages %}
+        <li>
+        	<a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
