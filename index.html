@@ -3,7 +3,7 @@ layout: default
 title: Hi!
 ---
 <ul>
-        {% for p in site.posts %}
+        {% for p in posts.page %}
         <li>
         	<a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a>
         </li>
