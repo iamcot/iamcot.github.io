@@ -92,13 +92,16 @@ a small {
 em {
 	font-style: italic;
 }
+.posts__list li a:hover{
+    text-decoration: none;
+}
 
 strong {
   font-weight:700;
 }
 
 ul {
-  list-style: inside;
+  list-style: none;
   padding-left: 25px;
 }
 
