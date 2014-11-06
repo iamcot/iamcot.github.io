@@ -13,10 +13,10 @@ Catching new technology, fighting with new trouble is always the goal in job tha
 So, I've been a developer for 5 years (2014).
 Let's see what the hell I had done?
 
-> - 2014: *Lazada SEA* ~> Professional in CREATE and ~fix~ BUG :'(
-> - 2013: *Tanner + Laudert* ~> Professional 1/2 in OXID
-> - 2012: *VAST* ~> Hospital Infomation System
-> - 2010: *VinaGlobal Securities* (VGS) ~> just a waiter lol!
+- 2014: *Lazada SEA* ~> Professional in CREATE and ~fix~ BUG :'(
+- 2013: *Tanner + Laudert* ~> Professional 1/2 in OXID
+- 2012: *VAST* ~> Hospital Infomation System
+- 2010: *VinaGlobal Securities* (VGS) ~> just a waiter lol!
 
 And, certainly, have alot of freelance projects: CMS, Accounting, e-commerce, serivce ...
 
@@ -31,10 +31,10 @@ Học các công nghệ mới, tiếp nhận các thử thách mà chưa từng 
 Vậy đó, và tôi làm cái việc "code" này cũng hơn 5 năm rồi (2014)
 Xem thử làm được cái mốc xì chấm cơm gì rồi nào?
 
-> - 2014: *Lazada SEA* ~> chuyên viên vá bug và tạo bug :'( cho 6 website bán hàng tại ĐNA của Lazada
-> - 2013: *Tanner + Laudert* ~> chuyên gia nửa mùa của hệ thống OXID ( đại loại là một hệ thống shop của người Đức)
-> - 2012: *Viện Khoa Học Và Công Nghệ Việt Nam* (VAST - DFCK) ~> tạo bug cho hệ thống quản lý bệnh viện
-> - 2010: *Công ty Chứng Khoán Toàn Cầu* (VGS) ~> sai vặt viên
+- 2014: *Lazada SEA* ~> chuyên viên vá bug và tạo bug :'( cho 6 website bán hàng tại ĐNA của Lazada
+- 2013: *Tanner + Laudert* ~> chuyên gia nửa mùa của hệ thống OXID ( đại loại là một hệ thống shop của người Đức)
+- 2012: *Viện Khoa Học Và Công Nghệ Việt Nam* (VAST - DFCK) ~> tạo bug cho hệ thống quản lý bệnh viện
+- 2010: *Công ty Chứng Khoán Toàn Cầu* (VGS) ~> sai vặt viên
 
 Và tất nhiên là rất nhiều các thể loại freelance: web tin tức, web kế toán, web thương mại điện tử, web dịch vụ ...
 
