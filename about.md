@@ -43,4 +43,4 @@ Và tất nhiên là rất nhiều các thể loại freelance: web tin tức, w
 - Guitar
 - Manga & JAV ;)
 
-Feel free to contact me via [Facebook](facebook.com/iamcot) or skype: iamcot
+Feel free to contact me via [Facebook](http://facebook.com/iamcot) or skype: iamcot
