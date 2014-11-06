@@ -100,8 +100,10 @@ strong {
   font-weight:700;
 }
 
+.posts__list{
+    list-style: none;
+}
 ul {
-  list-style: none;
   padding-left: 25px;
 }
 
