@@ -4,11 +4,23 @@ layout: page
 class: about
 ---
 
-I am Thang Truong, my friends call me CoT. And I am a Developer.
+I am Thang Truong, my friends call me CoT. And I am a PHP Developer.
+
+Myself, programming is just not job or tool to earn money, I am codeing with passion.
+I am not every clever, I am not very careful so I sometimes make mistake :'(, but ...
+Catching new technology, fighting with new trouble is always the goal in my job that I find.
+
+So, I've been a developer for 5 years (2014).
+Let's see what the hell I had done?
+
+> - 2014: *Lazada SEA* ~> Professional in CREATE and ~fix~ BUG :'(
+> - 2013: *Tanner + Laudert* ~> Professional 1/2 in OXID
+> - 2012: *VAST* ~> Hospital Infomation System
+> - 2010: *VinaGlobal Securities* (VGS) ~>
 
 # Thằng điên đang lảm nhảm đây là ai vậy?
 
-Tôi là Trương Công Thắng, bạn bè gọi tôi là CoT. Và Tôi là một lập trình viên.
+Tôi là Trương Công Thắng, bạn bè gọi tôi là CoT. Và Tôi là một lập trình viên PHP.
 
 Lập trình viên với tôi không chỉ là công việc, là một công cụ kiếm cơm mà nó là đam mê, đam mê được "viết code".
 Tôi không thông minh, tính tình lanh chanh không cẩn thận, lại bốc đồng bốc sắt nên rất hay làm lỗi nhưng ...
