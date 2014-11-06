@@ -8,7 +8,7 @@ I am Thang Truong, my friends call me CoT. And I am a PHP Developer.
 
 Myself, programming is not only a job or a tool to earn money, I am coding with passion.
 I am not very clever, I am not very careful so I sometimes make mistake :'(, but ...
-Catching new technology, fighting with new trouble is always the goal in my job that I find.
+Catching new technology, fighting with new trouble is always the goal in job that I find.
 
 So, I've been a developer for 5 years (2014).
 Let's see what the hell I had done?
