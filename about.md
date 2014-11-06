@@ -18,7 +18,7 @@ Let's see what the hell I had done?
 > - 2012: *VAST* ~> Hospital Infomation System
 > - 2010: *VinaGlobal Securities* (VGS) ~> just a waiter lol!
 
-And, certainly, have alot of freelance project: CMS, Accounting, e-commerce, serivce ...
+And, certainly, have alot of freelance projects: CMS, Accounting, e-commerce, serivce ...
 
 # Thằng điên đang lảm nhảm đây là ai vậy?
 
@@ -38,7 +38,7 @@ Xem thử làm được cái mốc xì chấm cơm gì rồi nào?
 
 Và tất nhiên là rất nhiều các thể loại freelance: web tin tức, web kế toán, web thương mại điện tử, web dịch vụ ...
 
-# And my hobbit?
+# And my hobbies?
 - Rocks \m/
 - Guitar
 - Manga & JAV ;)
