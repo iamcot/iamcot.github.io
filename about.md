@@ -6,7 +6,7 @@ class: about
 
 I am Thang Truong, my friends call me CoT. And I am a PHP Developer.
 
-Myself, programming is not only job or tool to earn money, I am coding with passion.
+Myself, programming is not only a job or a tool to earn money, I am coding with passion.
 I am not very clever, I am not very careful so I sometimes make mistake :'(, but ...
 Catching new technology, fighting with new trouble is always the goal in my job that I find.
 
@@ -16,7 +16,9 @@ Let's see what the hell I had done?
 > - 2014: *Lazada SEA* ~> Professional in CREATE and ~fix~ BUG :'(
 > - 2013: *Tanner + Laudert* ~> Professional 1/2 in OXID
 > - 2012: *VAST* ~> Hospital Infomation System
-> - 2010: *VinaGlobal Securities* (VGS) ~>
+> - 2010: *VinaGlobal Securities* (VGS) ~> just a waiter lol!
+
+And, certainly, have alot of freelance project: CMS, Accounting, e-commerce, serivce ...
 
 # Thằng điên đang lảm nhảm đây là ai vậy?
 
