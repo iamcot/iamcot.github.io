@@ -19,7 +19,7 @@ OK. xong được blog mở đầu :3 đỡ mắc công trằn trọc xem phải
 
 ---
 
-I was 2 years since I lost this domain because of have no money to renew domain :'( Now I come back. But too lazy to customize a blog framework,
+It was 2 years since I lost this domain because of having no money to renew domain :'( Now I come back. But too lazy to customize a blog framework,
 or code own website and manage DB or something like that. Simple, I need a place to keep bull shit :3
 
 Luckily, I found [Github Pages](http://github.io), just write and push, so cool :3
