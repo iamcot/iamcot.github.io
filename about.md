@@ -6,7 +6,7 @@ class: about
 
 I am Thang Truong, my friends call me CoT. And I am a PHP Developer.
 
-Myself, programming is just not job or tool to earn money, I am coding with passion.
+Myself, programming is not only job or tool to earn money, I am coding with passion.
 I am not very clever, I am not very careful so I sometimes make mistake :'(, but ...
 Catching new technology, fighting with new trouble is always the goal in my job that I find.
 
