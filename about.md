@@ -20,7 +20,7 @@ Let's see what the hell I had done?
 
 And, certainly, have alot of freelance projects: CMS, Accounting, e-commerce, serivce ...
 
-# Thằng điên đang lảm nhảm đây là ai vậy?
+# Ai đây nhỉ?
 
 Tôi là Trương Công Thắng, bạn bè gọi tôi là CoT. Và Tôi là một lập trình viên PHP.
 
