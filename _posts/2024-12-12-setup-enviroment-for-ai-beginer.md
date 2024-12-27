@@ -39,9 +39,9 @@ Hoặc qua BREW
 # nhưng có vẻ nhiều thư viện bị deprecated quá nên dùng tạm 20 là đủ
 brew install node@20
 
-node -v # "v20.18.1" y.z version có nên mới hơn không sao
+node -v # "v20.18.1" hoặc y.z version mới hơn 
 
-npm -v # should print "10.8.2" hoặc mới hơn không sao
+npm -v # should print "10.8.2" hoặc mới hơn
 ```
 <br>
 Node.Js phát triển từ **JS** nên nếu bạn chưa có hoặc chưa vững về js, cũng nên ngó qua <a href="https://www.w3schools.com/js/" target="_blank">JS cơ bản</a>. Các khái niệm sâu hơn mình sẽ lên ở các bài viết sau.
