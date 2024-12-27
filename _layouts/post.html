@@ -12,7 +12,7 @@
         <div class="col-md-10 offset-md-1">
           <h2 class="text-center">{{ page.title }}</h2>
           <h6 class="text-center">
-            {{ page.date | date_to_string }}
+            {{ page.date |  date: "%d %b" }}
             <small>
               .
               <a
@@ -34,7 +34,6 @@
             {{ page.content | markdownify }}
           </section>
 
-          {% include share.html %}
           {% include comments.html %}
 
           <hr />
