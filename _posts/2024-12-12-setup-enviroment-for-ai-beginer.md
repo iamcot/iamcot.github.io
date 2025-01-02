@@ -4,7 +4,7 @@ section-type: post
 has-comments: true
 title: Bắt đầu với AI sao cho dễ?
 category: tech
-tags: ["tutorial", "ai"]
+tags: ["tutorial", "ai", "nodejs"]
 ---
 
 Bạn muốn nhảy vào thế giới AI mà không biết bơi, nên bắt đầu từ đâu đây?
@@ -52,7 +52,7 @@ Node.Js phát triển từ **JS** nên nếu bạn chưa có hoặc chưa vững
 
 Key sẽ có dạng 
 ```
-sj-...
+sk-...
 ```
 Với tài khoản free bạn dư sức trải nghiệm với thế giới OpenAI rồi nên đừng lo nhé.
 
