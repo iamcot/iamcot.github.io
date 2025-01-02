@@ -66,7 +66,7 @@ class Cat extends Animal {
 }
 
 class Dog extends Animal {
-@override
+    @override
     void sound() {
         print("gâu gâu");
     }
